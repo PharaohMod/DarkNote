@@ -1,0 +1,11 @@
+{
+  "showAdmob": false,
+  "amunit": "",
+  "amcapping": 4,
+  "showUnity": false,
+  "uunit": "",
+  "ucapping": 1,
+  "showstartapp": false,
+  "saunit": "",
+  "sacapping": 2
+}
