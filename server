@@ -1,5 +1,13 @@
 {
   "posts": "https://script.google.com/macros/s/AKfycbyUMRyZRRlrQsou4Si8dfkU5y1_fokaUczoXfSdWmqw1ksu3Cg/exec",
   "update":"https://nerbly.com/updatify/apiv1/files/WCABSStore_547736343_ZCFoGIm8hLW75kB7rgEnOwadqCr1.json",
-"adcontrol": "https://github.com/PharaohMod/DarkNote/raw/main/adcontrol"
+"showAdmob": false,
+  "amunit": "",
+  "amcapping": 4,
+  "showUnity": false,
+  "uunit": "",
+  "ucapping": 1,
+  "showstartapp": false,
+  "saunit": "",
+  "sacapping": 2
 }
