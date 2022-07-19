@@ -15,7 +15,12 @@
 "adUrl":"",
 "pass":"၁၁၁၁၁၁",
 "src":"https://i.imgur.com/uyk08ft.jpg",
-"cointext":"Coin 5000 ကို ၁ထောင်ကျပ်တည်းနဲ့ ဝယ်ယူနိုင်ပါပြီ ခင်ဗျာ",
-"coinsrc":"https://i.imgur.com/Ds65og0.jpg",
+"cointext":"Coinဈေးနှုန်းများ
+
+မြန်မာငွေ 1000 - Coin 3000
+မြန်မာငွေ 3000 - Coin 12000
+မြန်မာငွေ 5000 - Coin 20000
+မြန်မာငွေ 10000 - Coin 50000",
+"coinsrc":"",
 "coinaction":"https://t.me/kdevp"
 }
